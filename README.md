@@ -1,5 +1,5 @@
 <h1 align="center">
-Bang Script
+Bang Script Gui
 </h1>
 
 <p align="center">
@@ -24,4 +24,8 @@ This code is licensed under the **Boost Software License 1.0**.
 > You can view the full licence [here](https://github.com/4gh9/Bang-Script-Gui/blob/main/Boost%20Software%20License%201.0)!  
 
   
-   <img src="https://media.discordapp.net/attachments/983919606789976125/990637615919267850/ecchi-sexy.gif"/></a>  
+   <img src="https://media.discordapp.net/attachments/983919606789976125/990637615919267850/ecchi-sexy.gif"/></a>
+   
+<h3 align="left">Languages and Tools:</h3>
+
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></a>
